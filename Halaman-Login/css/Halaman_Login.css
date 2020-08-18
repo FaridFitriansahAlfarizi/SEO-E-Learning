@@ -1,0 +1,21 @@
+body { 
+	background-position: center top; 
+	background-size: 700px; 
+	background-repeat: no-repeat; 
+}
+.container-sm {
+	width: 550px; 
+	height: 600px;
+}
+.row {
+	margin-top: 130px; 
+	margin-left: 285px; 
+	margin-right: 2px; 
+	height: 470px;
+}
+h1 {
+	font-family: font_login; 
+	font-size: 40pt; 
+	font-variant: inherit; 
+	margin-top: 0px;
+}

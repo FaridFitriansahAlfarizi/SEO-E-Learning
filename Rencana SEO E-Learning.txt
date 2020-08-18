@@ -1,0 +1,7 @@
+Rencana SEO E-Learning :
+- Membuat Front End Halaman Login dan SignUp
+- Membuat Front End Halaman Kelas
+- Membuat Front End Halaman Daftar Tugas
+- Membuat Front End Halaman Edit Your Profile
+- Membuat Front End Halaman Guru (proses pengerjaan)
+- Membuat Front End Halaman Siswa (proses pengerjaan)
